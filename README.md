@@ -22,14 +22,5 @@ The goal of Culture Vibes is clear: to **build bridges** between communities by 
 - **Database**: MySQL
 - **Web Server**: Apache
 
-## 🚀 Getting Started
 
-To get a local copy of the project up and running, follow these steps:
-
-### Prerequisites
-
-- PHP (7.x or above)
-- Apache Web Server
-- MySQL Database
-- Composer (for PHP dependencies)
   
