@@ -1,26 +1,35 @@
 # Culture Vibes
 
-Culture Vibes is a web application developed as part of our second-year academic project. The result of meticulous work, it utilizes a **PHP MVC architecture** combined with web technologies such as **HTML** and **CSS**, all powered by a **MySQL database** and deployed on an **Apache server**.
+🌟 CultureVibes
+CultureVibes is a powerful web application built with Symfony, designed to celebrate cultural diversity while offering a seamless solution for managing cultural events. This platform combines rich features for cultural exploration with modern event management capabilities, providing an engaging experience for users.
 
-## 🌍 Overview
+🌍 Overview
+CultureVibes bridges cultures by offering:
 
-Culture Vibes serves as a **dynamic platform** dedicated to celebrating the rich cultural heritage of the world. The platform highlights various aspects of global traditions, including **art**, **music**, **cuisine**, **fashion**, and more, embracing the values of **diversity** and **inclusion**.
+A platform to discover diverse cultural events.
+Tools to create, manage, and personalize events effortlessly.
+A user-friendly interface that ensures accessibility for all.
+With a robust back-end powered by Symfony and a polished front-end, CultureVibes revolutionizes the way cultural events are organized and experienced.
 
-The goal of Culture Vibes is clear: to **build bridges** between communities by facilitating the sharing and appreciation of cultures through an **immersive** and **interactive experience**.
-
-## 🔑 Features
-
-- **Interactive Cultural Exploration**: Dive into different cultures through an easy-to-use interface.
-- **Rich Content**: Access content related to **art**, **music**, **fashion**, **food**, and other cultural facets.
-- **Global Community Engagement**: Connect with a diverse group of users who share a passion for global cultures.
-- **Responsive Design**: Optimized for an excellent user experience across devices, ensuring accessibility and ease of use.
-
-## 💻 Technologies Used
-
-- **Backend**: PHP (MVC architecture)
-- **Frontend**: HTML, CSS
-- **Database**: MySQL
-- **Web Server**: Apache
+🔑 Key Features
+🎭 Comprehensive Event Management
+Discover Events: Explore a rich collection of events with descriptions and media.
+Add and Manage: Users can create, edit, and manage their own events seamlessly.
+🗓️ Interactive Calendar Integration
+View and manage events through an integrated calendar API, simplifying planning.
+📂 PDF Export and Data Analytics
+PDF Generation: Export event details for sharing or archiving.
+Statistics: Gain insights with detailed analytics to monitor trends and performance.
+🔍 Advanced Search and Filtering
+Refine searches by location, date, or category for a tailored experience.
+💬 Real-Time Notifications and Communication
+Notify users of updates with real-time integration, including WhatsApp notifications.
+💻 Technologies Used
+Framework: Symfony (ensuring scalability and maintainability)
+Frontend: Twig, HTML, CSS, JavaScript
+Database: MySQL
+API Integration: Calendar, notifications for streamlined event management
+PDF and Analytics: For enhanced reporting and decision-making
 
 
   
