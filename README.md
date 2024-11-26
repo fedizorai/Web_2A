@@ -10,11 +10,19 @@ Our mission is simple: to create meaningful connections by providing users with 
 🔑 Key Features
 
 Interactive Cultural Exploration: Discover and explore various cultures from around the globe through an intuitive and engaging interface.
+
 Diverse Content: Enjoy a wealth of content across art, music, fashion, cuisine, and other cultural elements.
+
 Global Community Engagement: Join a global network of users who share a passion for cultural exchange and discovery.
+
 Responsive Design: Fully optimized for all devices, ensuring a smooth and accessible experience on desktops, tablets, and mobile phones.
+
 💻 Technologies Used
+
 Backend: PHP (MVC architecture)
+
 Frontend: HTML, CSS
+
 Database: MySQL
+
 Web Server: Apache
