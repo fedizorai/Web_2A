@@ -25,4 +25,4 @@ Frontend: HTML, CSS
 
 Database: MySQL
 
-Web Server: Apache
+Web Server: Apache.
